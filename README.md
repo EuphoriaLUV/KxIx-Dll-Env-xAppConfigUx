@@ -1,7 +1,7 @@
 # xAppConfigUx
 Presenter and Interface View for KxIx Environment
 
-## MODEL
+## Model
 - IxAppEnvUx
 > Environment Repository Model interface
 
@@ -31,7 +31,7 @@ Presenter and Interface View for KxIx Environment
     }
 ```
 
-## VIEW
+## View
 > Environment View interface
 ```c#
     public interface IxAppEnvUxView
