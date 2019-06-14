@@ -55,7 +55,7 @@ Presenter and Interface View for KxIx Environment
         ...
     }
 
-    public void UpdateAppEnvView()
-    public void ApplyEnv()
-    public void SaveEnv()
+    public void UpdateAppEnvView();
+    public void ApplyEnv();
+    public void SaveEnv();
 ```
