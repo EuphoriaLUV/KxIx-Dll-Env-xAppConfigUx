@@ -15,8 +15,8 @@ Presenter and Interface View for KxIx Environment
 
 - xAppEnvUx
 > Environment Repository Model
--- Stub File Create
--- Xml Serialize
+  - Stub File Create
+  - Xml Serialize
 
 ```c#
     public class xAppEnvUx : IxAppEnvUx
