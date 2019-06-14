@@ -15,6 +15,7 @@ Presenter and Interface View for KxIx Environment
 - Stub File Create
 - Xml Serialize
 
+
     public class xAppEnvUx : IxAppEnvUx
     {
         public xAppEnvUx(string fullPath)
