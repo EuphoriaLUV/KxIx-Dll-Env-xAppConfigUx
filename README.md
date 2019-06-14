@@ -11,9 +11,9 @@ Presenter and Interface View for KxIx Environment
     }
 
 ## xAppEnvUx
-    > Environment Repository Model
-    - Stub File Create
-    - Xml Serialize
+> Environment Repository Model
+- Stub File Create
+- Xml Serialize
 
     public class xAppEnvUx : IxAppEnvUx
     {
